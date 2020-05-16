@@ -1,6 +1,8 @@
 # xylophone
 
-A new Flutter project.
+A Flutter app to make you Musician :musical_note: :musical_note:
+
+****
 
 ## Getting Started
 
